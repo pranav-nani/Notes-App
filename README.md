@@ -3,7 +3,7 @@ The Notes App is a web-based application designed to help users efficiently orga
 
 ![image](https://github.com/pranav-nani/Notes-App/assets/88759848/3e06f7cd-8616-4c6a-8998-a5cf384831d2)
 
-so like this we can search the tittle using the search bar if they match with the tittle then pnly mathed note will be displayed 
+so like this we can search the tittle using the search bar if they match with the tittle then only matched note will be displayed 
 ![image](https://github.com/pranav-nani/Notes-App/assets/88759848/039426f5-a874-474d-819d-d6fc1c8ba14c)
 
 
